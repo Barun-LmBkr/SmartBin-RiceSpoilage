@@ -61,6 +61,9 @@ streamlit run app.py
 
 This will open a browser window with the interface where you can input real-time data for prediction.
 
+or
+
+SmartBin-RiceSpoilage App link : https://barun-lmbkr-smartbin-ricespoilage-app-h0sl9h.streamlit.app/
 ## How to Use
 
 Input the following parameters in the app:
